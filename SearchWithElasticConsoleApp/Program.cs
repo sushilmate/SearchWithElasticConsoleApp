@@ -1,7 +1,7 @@
-﻿using System;
-using Elasticsearch.Net;
+﻿using Elasticsearch.Net;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using System;
 
 namespace SearchWithElasticConsoleApp
 {
